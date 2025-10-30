@@ -435,6 +435,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 }
 #endif /* USE_FULL_ASSERT */
 ```
+## Output of Soil Sensor with Borad:
+<img width="664" height="412" alt="image" src="https://github.com/user-attachments/assets/0fd86349-71be-4d8e-9a77-f16627d46bd7" />
 
 
 ## Output screen shots on serial monitor   :
